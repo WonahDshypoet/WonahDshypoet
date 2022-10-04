@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WonahDshypoet
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning to program with JavaScript.
-- 📫 How to reach me twitter on https://twitter.com/shypoet__ or Phone: 07044606804
+- 📫 How to reach me twitter on https://twitter.com/shypoet__ 
 
 <!---
 WonahDshypoet/WonahDshypoet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
