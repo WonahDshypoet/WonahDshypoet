@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WonahDshypoet
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on anything involving OOP
+- 🌱 I’m currently learning to program with JavaScript.
 - 📫 How to reach me twitter on https://twitter.com/shypoet__ or Phone: 07044606804
 
 <!---
