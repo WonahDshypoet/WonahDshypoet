@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WonahDshypoet
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning to program with JavaScript.
+- 🌱 I’m a software engineer
 - 📫 How to reach me twitter on https://twitter.com/shypoet__ 
 
 <!---
